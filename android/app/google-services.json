@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12478072887",
+    "project_id": "trackero-database",
+    "storage_bucket": "trackero-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12478072887:android:706dd6876d2fb3d24ad7b2",
+        "android_client_info": {
+          "package_name": "com.example.trackero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12478072887-ld6vqotob02lf2hbjvv36l8lqsu6ftim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvXpFUJPun_Vf42xCYwUUKFEknMljn70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12478072887-ld6vqotob02lf2hbjvv36l8lqsu6ftim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
